@@ -1,0 +1,16 @@
+{
+  "name": "aws_asg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "bun run index.js",
+    "dev_parallel": "bun run parallel_node_server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
